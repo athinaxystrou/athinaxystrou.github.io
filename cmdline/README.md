@@ -10,3 +10,11 @@ byte3: players/programmers
 byte4: the_triwizard_cup_is_now_yours
 byte5: sdi2500148_1760977078_1695053304_62_74_22_242_11089_22
 
+
+
+byte9: filepaths_are_handy
+byte10: i_wonder_what_this_does  Althea
+byte11: Peta
+byte12: which_command_is_the_best
+byte13: descriptive_git_commit_messages_are_great
+byte14: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
