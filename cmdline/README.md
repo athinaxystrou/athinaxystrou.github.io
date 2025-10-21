@@ -4,10 +4,7 @@ byte0:  ~/i_wanna_be/the_very_best/no_one_ever_was/to_catch_them_is_my_real_test
 You made it this far! Challenge complete! Congratulations!
 
 Your secret code is: you_just_mastered_changing_directories/
-byte1: in_every_job_that_must_be_done_there_is_an_element_of_fun
-byte2: No one will find this: grep_and_you_will_find
-byte3: players/programmers
-byte4: the_triwizard_cup_is_now_yours
+
 byte5: sdi2500148_1760977078_1695053304_62_74_22_242_11089_22
 
 
